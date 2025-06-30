@@ -3,9 +3,7 @@
 
 <h1>Good to see you, I'm John Erinjery!</h1>
 
-<h3>A Bit About Me</h3>
-I am an aspiring BSc Physics major who's on the last lap of his entrance exam prep. Hence, I've been very busy for about an year, during which I had been unable to contribute.</br>
-However, I'll be free in a few months, and can't wait to get back to those projects that I had really wanted to do!
+I am a second year Integrated MSc Student studying in Indian Institution of Science Education and Research (IISER) Pune. I like to code for my own convinience of doing things, which often include Web Scraping and Document Management
 </br>
 <h3>Skillset</h3>
 
