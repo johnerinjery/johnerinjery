@@ -3,18 +3,11 @@
 
 <h1>Good to see you, I'm John Erinjery!</h1>
 
-I am a second year Integrated MSc Student studying in Indian Institution of Science Education and Research (IISER) Pune. I like to code for my own convinience of doing things, which often include Web Scraping and Document Management
+I am a Second-year BS-MS Physics Research Student Studying in IISER Pune. <br>
+I'm interested in astrophysics; especially gravitational astrophysics. I enjoy studying morphology of galaxies, dynamics of galaxy clusters and evolution of celestial objects, particularly stars and nebulae. <br>
+
+---
+The coding that I do consists of academic projects, devoloping and maintaining my websites, devoloping CLI's for my convinience, and other less serious pursiuits.
 </br>
-<h3>Skillset</h3>
-
-- Python
-- Django
-- CSS
-- JS
-- HTML
-</br>
-
-> Honestly, most of the projects I do are via Python, it really is my right handed language! I do plan to learn Kotlin a bit later, though.
-
-I hope you find my projects useful!!
+I am currently working on devoloping image processing tools using C and Python for processing astronomical data.
 <br/>
